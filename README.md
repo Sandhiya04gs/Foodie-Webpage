@@ -1,4 +1,4 @@
-<img width="1363" height="721" alt="image" src="https://github.com/user-attachments/assets/3bcbcdb0-a977-4543-b0ff-f7ea4f3f3d04" /># Foodie-Webpage
+Foodie-Webpage
 A single-page restaurant website built using HTML and CSS. The webpage is designed to showcase a restaurant’s offerings with a clean, responsive layout.
 
 #Features:
